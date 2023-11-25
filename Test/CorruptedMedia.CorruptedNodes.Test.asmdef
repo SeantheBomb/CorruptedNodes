@@ -1,0 +1,16 @@
+{
+    "name": "CorruptedMedia.CorruptedNodes.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe5b9735d927b0f4ea13186e767dfd16"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
